@@ -24,7 +24,7 @@ jobs:
         with:
           # required
           bot-user-personal-access-token: ${{ secrets.BOT_USER_PERSONAL_ACCESS_TOKEN }}
-          cbmc-version: 5.66.0
+          cbmc-version: 5.61.0
           cbmc-viewer-version: 3.6
           github-repo-owner: ronakfof
           github-repo-name: private-s2n-tls
